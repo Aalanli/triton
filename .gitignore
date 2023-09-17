@@ -36,3 +36,4 @@ docs/getting-started/tutorials
 python/tutorials/
 !python/tutorials/*.py
 !python/tutorials/*.rst
+.cache
